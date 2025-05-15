@@ -1,1 +1,16 @@
 Bitwarden/
+KDE/
+dconf/
+kate/externaltools/
+kde.org/
+pulse/
+session/
+strawberry/
+dolphinrc
+gwenviewrc
+kate-externaltoolspluginrc
+katerc
+katevirc
+pavucontrol.ini
+user-dirs.dirs
+user-dirs.locale
