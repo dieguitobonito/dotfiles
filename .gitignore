@@ -15,3 +15,10 @@ pavucontrol.ini
 user-dirs.dirs
 user-dirs.locale
 QtProject.conf
+kate/
+kdeglobals
+kile-livepreview-okularpartrc
+kilerc
+konsolerc
+konsolesshconfig
+trashrc
